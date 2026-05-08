@@ -1,10 +1,7 @@
-# Análise de Vendas de Micro Empresa — Insights Exploratórios
-
 Análise exploratória de aproximadamente 4.800 vendas reais de uma pequena loja.  
-O objetivo é entender padrões básicos, como quais produtos mais vendem, como as vendas se comportam ao longo de semanas e meses, quais formas de pagamento são mais usadas e como datas sazonais afetam a loja.  
 O projeto foi inspirado na disciplina de “Métodos e Técnicas de Pesquisa para Computação” da minha faculdade, que escolhi explorar o tema “A aplicação da análise de dados e da modelagem preditiva como apoio à tomada de decisão em pequenas empresas”.
 
-A ideia só foi possível graças ao acesso a um relatório real de vendas da loja, permitindo que a análise fosse feita com dados reais em vez de um dataset sintético, servindo de embasamento tanto pro meu projeto de pesquisa e um bom projeto pro meu github
+A ideia só foi possível graças ao acesso a um relatório real de vendas da loja, permitindo que a análise fosse feita com dados reais em vez de um dataset sintético, servindo de embasamento tanto pro meu projeto de pesquisa e um bom projeto pro meu github.
 
 ---
 
